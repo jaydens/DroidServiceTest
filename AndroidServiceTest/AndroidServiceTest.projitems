@@ -19,5 +19,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)AndroidServiceTestPage.xaml.cs">
       <DependentUpon>AndroidServiceTestPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Globals.cs" />
   </ItemGroup>
 </Project>
