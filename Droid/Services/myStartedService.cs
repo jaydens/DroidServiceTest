@@ -12,7 +12,16 @@ namespace AndroidServiceTest.Droid
     {
         IBinder binder;
 		public bool keepAlive;
-		public static bool isRunning;
+        static bool _isRunning;
+        public static bool isRunning{
+            get{
+                return _isRunning;
+            }
+            set{
+                Globals.lManagerIsRunning = value;
+                _isRunning = value;
+            }
+        }
         public static MyStartedService CurrentInstance { get; private set; }
 
 		static Thread t1;
@@ -67,6 +76,20 @@ namespace AndroidServiceTest.Droid
 				// So send with intent
 				// var bIntent = new Intent("com.intellidrive.app.UpdateData");
 				Dbg.Log($"Unable to set the Globals Instance of the locMgs: {ex.Message}");
+			}
+		}
+
+		static void thread2()
+		{
+			try
+			{
+				while (true)
+					Thread.Sleep(5000);
+			}
+			catch (ThreadAbortException e)
+			{
+				Console.WriteLine($"Thread Aborted! {e.Message}");
+				t2.Priority = System.Threading.ThreadPriority.Lowest;
 			}
 		}
 

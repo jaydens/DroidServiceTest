@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AndroidServiceTest", "AndroidServiceTest\AndroidServiceTest.shproj", "{63683443-6ABE-44F3-9689-B11ECDC8C739}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AndroidServiceTest", "AndroidServiceTest\AndroidServiceTest.shproj", "{3E433350-71F2-4DF7-8CF6-D4DE8027DBD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidServiceTest.Droid", "Droid\AndroidServiceTest.Droid.csproj", "{B8D53511-236F-4833-BFA8-1EB82BC37222}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidServiceTest.Droid", "Droid\AndroidServiceTest.Droid.csproj", "{69FAE294-A06F-4EC0-9453-EC61CB588D11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,9 +11,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B8D53511-236F-4833-BFA8-1EB82BC37222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B8D53511-236F-4833-BFA8-1EB82BC37222}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B8D53511-236F-4833-BFA8-1EB82BC37222}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B8D53511-236F-4833-BFA8-1EB82BC37222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FAE294-A06F-4EC0-9453-EC61CB588D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FAE294-A06F-4EC0-9453-EC61CB588D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FAE294-A06F-4EC0-9453-EC61CB588D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FAE294-A06F-4EC0-9453-EC61CB588D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

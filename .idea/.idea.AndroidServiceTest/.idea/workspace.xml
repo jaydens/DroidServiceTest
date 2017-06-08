@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5f14a57-d31d-450e-8dc3-c42cab838aff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Droid/Services/WakefulAppService.cs" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Droid/Resources/layout/Tabbar.axml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Droid/Resources/layout/Toolbar.axml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidServiceTest.sln" afterPath="$PROJECT_DIR$/AndroidServiceTest.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidServiceTest/AndroidServiceTest.projitems" afterPath="$PROJECT_DIR$/AndroidServiceTest/AndroidServiceTest.projitems" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidServiceTest/AndroidServiceTest.shproj" afterPath="$PROJECT_DIR$/AndroidServiceTest/AndroidServiceTest.shproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidServiceTest/Globals.cs" afterPath="$PROJECT_DIR$/AndroidServiceTest/Globals.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Droid/AndroidServiceTest.Droid.csproj" afterPath="$PROJECT_DIR$/Droid/AndroidServiceTest.Droid.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Droid/MainActivity.cs" afterPath="$PROJECT_DIR$/Droid/MainActivity.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Droid/Properties/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Droid/Properties/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Droid/Resources/Resource.designer.cs" afterPath="$PROJECT_DIR$/Droid/Resources/Resource.designer.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Droid/Services/CrossSomethingManager.cs" afterPath="$PROJECT_DIR$/Droid/Services/CrossSomethingManager.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Droid/Services/myStartedService.cs" afterPath="$PROJECT_DIR$/Droid/Services/myStartedService.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Droid/packages.config" afterPath="$PROJECT_DIR$/Droid/packages.config" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BootReciever.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droid/OnBoot/BootReciever.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1496869592000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1496869592000" expanded="true" signature="114:918" ph="{...}" />
+                <marker date="1496869592000" expanded="true" signature="146:916" ph="{...}" />
+                <marker date="1496869592000" expanded="true" signature="245:359" ph="[...]" />
+                <marker date="1496869592000" expanded="true" signature="447:910" ph="{...}" />
+                <marker date="1496869592000" expanded="true" signature="517:906" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WakefulAppService.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droid/Services/WakefulAppService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1496912289000" expanded="false" signature="6:55" ph="..." />
+                <marker date="1496912289000" expanded="true" signature="91:744" ph="{...}" />
+                <marker date="1496912289000" expanded="true" signature="233:742" ph="{...}" />
+                <marker date="1496912289000" expanded="true" signature="329:386" ph="{...}" />
+                <marker date="1496912289000" expanded="true" signature="442:739" ph="{...}" />
+                <marker date="1496912289000" expanded="true" signature="491:666" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlarmListener.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droid/Services/AlarmListener.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <folding>
+                <marker date="1496868677000" expanded="false" signature="6:126" ph="..." />
+                <marker date="1496868677000" expanded="true" signature="162:1454" ph="{...}" />
+                <marker date="1496868677000" expanded="true" signature="319:1452" ph="{...}" />
+                <marker date="1496868677000" expanded="true" signature="325:396" ph="/// Gets the interval period of alarm. ... " />
+                <marker date="1496868677000" expanded="true" signature="509:543" ph="{...}" />
+                <marker date="1496868677000" expanded="true" signature="570:605" ph="{...}" />
+                <marker date="1496868677000" expanded="true" signature="703:1292" ph="{...}" />
+                <marker date="1496868677000" expanded="true" signature="1340:1446" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrossSomethingManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Droid/Services/CrossSomethingManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1496917549000" expanded="true" signature="48:347" ph="{...}" />
+                <marker date="1496917549000" expanded="true" signature="89:345" ph="{...}" />
+                <marker date="1496917549000" expanded="true" signature="134:212" ph="{...}" />
+                <marker date="1496917549000" expanded="true" signature="255:339" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myStartedService.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Droid/Services/myStartedService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+              <folding>
+                <marker date="1496913104000" expanded="false" signature="6:74" ph="..." />
+                <marker date="1496913104000" expanded="true" signature="110:3119" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="402:2845" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="526:721" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="543:593" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="609:711" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="923:943" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="1071:1582" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="1262:1504" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="1615:2406" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="1900:1993" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2000:2047" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2071:2402" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2081:2317" ph="/* If we fall into here then Globals doesn't exist, highly unlikely ... */" />
+                <marker date="1496913104000" expanded="true" signature="2431:2655" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2442:2494" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2528:2651" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2737:2839" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2892:3117" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="2997:3032" ph="{...}" />
+                <marker date="1496913104000" expanded="true" signature="3087:3114" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-240" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidServiceTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidServiceTest.Droid" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidServiceTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidServiceTest.Droid" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Services" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidServiceTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidServiceTest.Droid" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OnBoot" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidServiceTest (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Xamarin.Android.Android Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="DEFAULT_DEVICE_TO_RUN" value="" />
+      <option name="DEFAULT_EMULATOR_TO_RUN" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Android Default" type="XamarinAndroidProject" factoryName="Xamarin.Android">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="DEPLOY_BEHAVIOUR_NAME" value="Default" />
+      <option name="DEPLOY_TARGET_BEHAVIOUR_NAME" value="Ask" />
+      <option name="DEFAULT_DEVICE_TO_RUN" value="" />
+      <option name="DEFAULT_EMULATOR_TO_RUN" value="" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue="Xamarin.Android.Android Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5f14a57-d31d-450e-8dc3-c42cab838aff" name="Default" comment="" />
+      <created>1496922239997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496922239997</updated>
+      <workItem from="1496922242437" duration="168000" />
+      <workItem from="1496925755850" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-240" y="-1057" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Droid/OnBoot/BootReciever.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496869592000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1496869592000" expanded="true" signature="114:918" ph="{...}" />
+            <marker date="1496869592000" expanded="true" signature="146:916" ph="{...}" />
+            <marker date="1496869592000" expanded="true" signature="245:359" ph="[...]" />
+            <marker date="1496869592000" expanded="true" signature="447:910" ph="{...}" />
+            <marker date="1496869592000" expanded="true" signature="517:906" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/Services/WakefulAppService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496912289000" expanded="false" signature="6:55" ph="..." />
+            <marker date="1496912289000" expanded="true" signature="91:744" ph="{...}" />
+            <marker date="1496912289000" expanded="true" signature="233:742" ph="{...}" />
+            <marker date="1496912289000" expanded="true" signature="329:386" ph="{...}" />
+            <marker date="1496912289000" expanded="true" signature="442:739" ph="{...}" />
+            <marker date="1496912289000" expanded="true" signature="491:666" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/Services/AlarmListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <marker date="1496868677000" expanded="false" signature="6:126" ph="..." />
+            <marker date="1496868677000" expanded="true" signature="162:1454" ph="{...}" />
+            <marker date="1496868677000" expanded="true" signature="319:1452" ph="{...}" />
+            <marker date="1496868677000" expanded="true" signature="325:396" ph="/// Gets the interval period of alarm. ... " />
+            <marker date="1496868677000" expanded="true" signature="509:543" ph="{...}" />
+            <marker date="1496868677000" expanded="true" signature="570:605" ph="{...}" />
+            <marker date="1496868677000" expanded="true" signature="703:1292" ph="{...}" />
+            <marker date="1496868677000" expanded="true" signature="1340:1446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/Services/CrossSomethingManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496917549000" expanded="true" signature="48:347" ph="{...}" />
+            <marker date="1496917549000" expanded="true" signature="89:345" ph="{...}" />
+            <marker date="1496917549000" expanded="true" signature="134:212" ph="{...}" />
+            <marker date="1496917549000" expanded="true" signature="255:339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Droid/Services/myStartedService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="46" column="23" lean-forward="false" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <marker date="1496913104000" expanded="false" signature="6:74" ph="..." />
+            <marker date="1496913104000" expanded="true" signature="110:3119" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="402:2845" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="526:721" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="543:593" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="609:711" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="923:943" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="1071:1582" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="1262:1504" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="1615:2406" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="1900:1993" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2000:2047" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2071:2402" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2081:2317" ph="/* If we fall into here then Globals doesn't exist, highly unlikely ... */" />
+            <marker date="1496913104000" expanded="true" signature="2431:2655" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2442:2494" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2528:2651" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2737:2839" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2892:3117" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="2997:3032" ph="{...}" />
+            <marker date="1496913104000" expanded="true" signature="3087:3114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

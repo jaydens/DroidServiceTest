@@ -5,12 +5,12 @@ namespace AndroidServiceTest.Droid
     {
         public CrossSomethingManager()
         {
-            
+            Dbg.Log("CrossSomethingManager Constructor");
         }
 
         public void StartDoingSomething()
         {
-            
+            Dbg.Log("CrossSomethingManger Doing Something...");
         }
     }
 }

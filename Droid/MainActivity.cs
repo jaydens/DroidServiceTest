@@ -23,10 +23,9 @@ namespace AndroidServiceTest.Droid
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
             LoadApplication(new App());
-
-			//Schedule Wakeful Intent
 			if (!AlarmListener.isSet)
 				WakefulIntentService.WakefulIntentService.ScheduleAlarms(new AlarmListener(), this.ApplicationContext);
-        }
+
+		}
     }
 }
